@@ -24,7 +24,7 @@ DRAGON FB GROUP Attack for Facebook Group
 
 >> apt install git
 
->> git clone *****
+>> git clone https://github.com/Dragon11a22/DRAGON-FB-GROUP.git
 
 >> cd D-FB-GROUP
 
