@@ -26,11 +26,11 @@ DRAGON FB GROUP Attack for Facebook Group
 
 >> git clone https://github.com/Dragon11a22/DRAGON-FB-GROUP.git
 
->> cd D-FB-GROUP
+>> cd DRAGON-FB-GROUP
 
->> chmod +x D-FB-GROUP
+>> chmod +x DRAGON-FB-GROUP.py
 
->> python2 D-FB-GROUP
+>> python2 DRAGON-FB-GROUP.py
 
 ```
 
